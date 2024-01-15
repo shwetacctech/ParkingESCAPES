@@ -48,7 +48,7 @@ double maxX = boundingBoxCalculator.max_X(vertices);
 Calculates the maximum Y-coordinate from a vector of 3D points.
 ```
 double maxY = boundingBoxCalculator.max_Y(vertices);
-``
+```
 + max_Z()
 Calculates the maximum Z-coordinate from a vector of 3D points.
 
