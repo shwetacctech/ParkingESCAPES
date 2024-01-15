@@ -1,4 +1,5 @@
 # Parking Escape Simulator
+https://drive.google.com/file/d/12a3pGegxABZae2wWS8vhyp9ckgqStkXs/view?usp=sharing
 ## 1.1  Problem Statement
 The objective is to design an engaging and challenging game that simulates the dynamics of managing parking slot traffic and offers an escape challenge to strategically solve the congestion within the gaming environment.
 ## 1.2 Challenges and Objectives:
@@ -29,8 +30,6 @@ The Traffic Jam Game operates as an independent application, creating a self-con
 + Traffic Simulation: Generating traffic scenarios with multiple vehicles, simulating congestion and gridlocks.
 + User Interaction: Allowing users to manipulate vehicle positions by selecting cars within the 3D environment using intuitive controls provided by the QT framework.
 + Real-Time Traffic Management: Enabling users to strategize and reposition vehicles in real-time to alleviate congestion and achieve traffic flow optimization.         
-
-![Screenshot (11)](https://github.com/shwetacctech/ProjectParkingEscape/assets/149310316/c8b0df66-039e-4fb2-9de5-e2f447c1b48d)
 
 ## 3. Functional Requirements
 + User Interface:
