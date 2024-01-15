@@ -4,10 +4,10 @@ The Car class is designed to represent a 3D car entity within a software system,
 # Overview
 The Car class encapsulates the following attributes and functionalities:
 
-## Vertices: Represents the points in 3D space that define the car's shape.
-## Colors: Stores the color information associated with the car.
-## Alignment: Indicates whether the car is straight or not.
-## Bounding Box (BBOX): Provides information about the bounding box coordinates.
++ Vertices: Represents the points in 3D space that define the car's shape.
++ Colors: Stores the color information associated with the car.
++ Alignment: Indicates whether the car is straight or not.
++ Bounding Box (BBOX): Provides information about the bounding box coordinates.
 # Usage
 ## Initializing a Car
 To create a Car instance, follow these steps:
