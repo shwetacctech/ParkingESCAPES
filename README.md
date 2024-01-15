@@ -1,4 +1,7 @@
 # Parking Escape Simulator
+![image](https://github.com/shwetacctech/ParkingESCAPES/assets/149310316/66878ec7-3971-4c4e-8359-b37397129f0e)
+
+
 "C:\Users\Shweta Raut\Downloads\video (2).webm"
 https://drive.google.com/file/d/12a3pGegxABZae2wWS8vhyp9ckgqStkXs/view?usp=sharing
 ## 1.1  Problem Statement
