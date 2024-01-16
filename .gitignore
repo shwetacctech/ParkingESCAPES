@@ -1,0 +1,15 @@
+.vs
+x64
+Car/x64
+Geometry/x64
+TrafficJam/x64
+Transformations/x64
+.gitignore
+/Car/html
+/Geometry/headers/html
+/Geometry/html
+/TrafficJam/html
+/Transformations/html
+*.vcxproj
+*.filters
+*.user
