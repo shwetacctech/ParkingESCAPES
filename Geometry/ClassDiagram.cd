@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Point3D">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAIAAAAAAAAgAAWAAAAACAAAAAAABAAAAAAYAE=</HashCode>
+      <FileName>headers\Point3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAgAA=</HashCode>
+      <FileName>headers\Geometry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
